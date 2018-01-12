@@ -1,0 +1,3 @@
+# sprint-1
+
+First sprint, pumped. Lots of mistakes and learning, here we come...
