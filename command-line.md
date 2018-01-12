@@ -1,7 +1,7 @@
-How would you describe command line?
+How would you describe command line?<br>
 Command line is the code that sits behind everything you use on your computer, acting as the interface between what you input into applications (e.g. use your mouse to click on a file to open it) and communicating this to the computer.
 
-Examples of command lines and what they do:
+Examples of command lines and what they do:<br>
   pwd (print working directory) - shows you where in the file structure you are currently working.
   ls (list directory) - lists all files and folders sitting withing the current directory you are working in.
   cd (change directory) - used to move between directories (folders).
